@@ -265,19 +265,19 @@ GROUP BY category;
 
 This analysis provides a comprehensive view of Netflix's content and can help inform content strategy and decision-making.
 
+## Contribution
 
+As this is my first GitHub project, any feedback or suggestions are most welcome! Feel free to fork this repository and contribute to its development.
 
-## Author - Zero Analyst
+## Author - garimagoel55-dot
 
 This project is part of my portfolio, showcasing the SQL skills essential for data analyst roles. If you have any questions, feedback, or would like to collaborate, feel free to get in touch!
 
-### Stay Updated and Join the Community
+### Contact
 
-For more content on SQL, data analysis, and other data-related topics, make sure to follow me on social media and join our community:
+Let's connect!
 
-- **YouTube**: [Subscribe to my channel for tutorials and insights](https://www.youtube.com/@zero_analyst)
-- **Instagram**: [Follow me for daily tips and updates](https://www.instagram.com/zero_analyst/)
-- **LinkedIn**: [Connect with me professionally](https://www.linkedin.com/in/najirr)
-- **Discord**: [Join our community to learn and grow together](https://discord.gg/36h5f2Z5PK)
+- **Email**: [garimagoel55@gmail.com]
+- **LinkedIn**: [Connect with me professionally](https://www.linkedin.com/in/garima-goel-46a5b5142/)
 
 Thank you for your support, and I look forward to connecting with you!
